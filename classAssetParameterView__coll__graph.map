@@ -1,0 +1,6 @@
+<map id="AssetParameterView" name="AssetParameterView">
+<area shape="rect" id="node1" title="This class is the view for a list of parameters." alt="" coords="5,663,217,1048"/>
+<area shape="rect" id="node2" title=" " alt="" coords="67,5,145,83"/>
+<area shape="rect" id="node4" href="$classAbstractParamWidget.html" title="Base class of all the widgets representing a parameter of an asset (effect or transition)" alt="" coords="128,132,327,312"/>
+<area shape="rect" id="node3" href="$classKeyframeWidget.html" title=" " alt="" coords="127,361,330,600"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="AssetPanel" name="AssetPanel">
+<area shape="rect" id="node1" title="This class is the widget that provides interaction with the asset currently selected...." alt="" coords="74,1651,297,2021"/>
+<area shape="rect" id="node2" title=" " alt="" coords="103,5,182,83"/>
+<area shape="rect" id="node4" href="$classAssetParameterView.html" title="This class is the view for a list of parameters." alt="" coords="62,1017,274,1403"/>
+<area shape="rect" id="node6" href="$classAbstractParamWidget.html" title="Base class of all the widgets representing a parameter of an asset (effect or transition)" alt="" coords="113,132,311,312"/>
+<area shape="rect" id="node8" href="$classEffectStackView.html" title=" " alt="" coords="293,336,496,692"/>
+<area shape="rect" id="node3" href="$classMixStackView.html" title=" " alt="" coords="43,1459,181,1581"/>
+<area shape="rect" id="node7" href="$classTransitionStackView.html" title=" " alt="" coords="205,1452,384,1588"/>
+<area shape="rect" id="node5" href="$classKeyframeWidget.html" title=" " alt="" coords="112,716,315,955"/>
+</map>

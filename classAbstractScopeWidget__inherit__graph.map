@@ -1,0 +1,13 @@
+<map id="AbstractScopeWidget" name="AbstractScopeWidget">
+<area shape="rect" id="node1" title="Abstract class for audio/colour scopes (receive data and paint it)." alt="" coords="539,131,807,971"/>
+<area shape="rect" id="node3" href="$classAbstractAudioScopeWidget.html" title="Abstract class for scopes analyzing audio samples." alt="" coords="371,1019,605,1184"/>
+<area shape="rect" id="node7" href="$classAbstractGfxScopeWidget.html" title="Abstract class for scopes analyzing image frames." alt="" coords="867,1019,1087,1184"/>
+<area shape="rect" id="node2" title=" " alt="" coords="634,5,713,83"/>
+<area shape="rect" id="node4" href="$classAudioSignal.html" title=" " alt="" coords="5,1239,261,1493"/>
+<area shape="rect" id="node5" href="$classAudioSpectrum.html" title="Displays a spectral power distribution of audio samples. The frequency distribution is calculated by ..." alt="" coords="286,1261,453,1471"/>
+<area shape="rect" id="node6" href="$classSpectrogram.html" title="This Spectrogram shows the spectral power distribution of incoming audio samples over time...." alt="" coords="477,1232,733,1500"/>
+<area shape="rect" id="node8" href="$classHistogram.html" title="Displays the histogram of frames." alt="" coords="757,1298,888,1434"/>
+<area shape="rect" id="node9" href="$classRGBParade.html" title="Displays the RGB waveform of a frame. This is the same as the Waveform, but for each colour channel s..." alt="" coords="912,1291,1043,1441"/>
+<area shape="rect" id="node10" href="$classVectorscope.html" title="Displays the vectorscope of a frame." alt="" coords="1067,1247,1323,1485"/>
+<area shape="rect" id="node11" href="$classWaveform.html" title="Displays the waveform of a frame." alt="" coords="1347,1298,1477,1434"/>
+</map>

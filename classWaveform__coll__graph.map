@@ -1,0 +1,6 @@
+<map id="Waveform" name="Waveform">
+<area shape="rect" id="node1" title="Displays the waveform of a frame." alt="" coords="74,1232,205,1368"/>
+<area shape="rect" id="node2" href="$classAbstractGfxScopeWidget.html" title="Abstract class for scopes analyzing image frames." alt="" coords="29,1019,249,1184"/>
+<area shape="rect" id="node3" href="$classAbstractScopeWidget.html" title="Abstract class for audio/colour scopes (receive data and paint it)." alt="" coords="5,131,273,971"/>
+<area shape="rect" id="node4" title=" " alt="" coords="100,5,179,83"/>
+</map>

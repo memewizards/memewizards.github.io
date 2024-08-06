@@ -1,0 +1,9 @@
+<map id="__dummy_AbstractCurveWidget" name="__dummy_AbstractCurveWidget">
+<area shape="rect" id="node1" title="This class is a workaround to be able to use templating in the actual class Note that Qt doesn&#39;t supp..." alt="" coords="199,131,455,267"/>
+<area shape="rect" id="node3" href="$classAbstractCurveWidget.html" title="Base class of all the widgets representing a curve of points." alt="" coords="5,315,204,817"/>
+<area shape="rect" id="node4" href="$classAbstractCurveWidget.html" title=" " alt="" coords="228,315,427,817"/>
+<area shape="rect" id="node6" href="$classAbstractCurveWidget.html" title=" " alt="" coords="451,315,649,817"/>
+<area shape="rect" id="node2" title=" " alt="" coords="288,5,367,83"/>
+<area shape="rect" id="node5" href="$classBezierSplineEditor.html" title="@todo Describe class BezierSplineEditor" alt="" coords="224,873,431,1053"/>
+<area shape="rect" id="node7" href="$classKisCurveWidget.html" title=" " alt="" coords="458,865,642,1060"/>
+</map>

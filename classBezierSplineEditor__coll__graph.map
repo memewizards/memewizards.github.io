@@ -1,0 +1,7 @@
+<map id="BezierSplineEditor" name="BezierSplineEditor">
+<area shape="rect" id="node1" title="@todo Describe class BezierSplineEditor" alt="" coords="147,1000,354,1180"/>
+<area shape="rect" id="node2" href="$classAbstractCurveWidget.html" title=" " alt="" coords="151,463,350,951"/>
+<area shape="rect" id="node3" href="$class____dummy__AbstractCurveWidget.html" title="This class is a workaround to be able to use templating in the actual class Note that Qt doesn&#39;t supp..." alt="" coords="5,198,261,334"/>
+<area shape="rect" id="node4" title=" " alt="" coords="94,5,173,83"/>
+<area shape="rect" id="node5" href="$classCubicBezierSpline.html" title="@todo Describe class CubicBezierSpline" alt="" coords="286,132,450,400"/>
+</map>

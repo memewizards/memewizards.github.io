@@ -1,0 +1,4 @@
+<map id="ItemInfo" name="ItemInfo">
+<area shape="rect" id="node1" title=" " alt="" coords="5,351,129,472"/>
+<area shape="rect" id="node2" href="$classGenTime.html" title="Encapsulates a time, which can be set in various forms and outputted in various forms." alt="" coords="5,5,129,244"/>
+</map>

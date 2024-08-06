@@ -1,0 +1,10 @@
+<map id="EffectItemModel" name="EffectItemModel">
+<area shape="rect" id="node1" title="This represents an effect of the effectstack." alt="" coords="237,1293,392,1591"/>
+<area shape="rect" id="node2" href="$classAbstractEffectItem.html" title="This represents an effect of the effectstack." alt="" coords="104,815,296,1097"/>
+<area shape="rect" id="node3" href="$classTreeItem.html" title="This class is a generic class to represent items of a tree&#45;like model. It works in tandem with Abstra..." alt="" coords="11,161,189,605"/>
+<area shape="rect" id="node4" href="$structenable__shared__from__this__virtual.html" title=" " alt="" coords="5,5,195,112"/>
+<area shape="rect" id="node5" href="$classAssetParameterModel.html" title="This class is the model for a list of parameters. The behaviour of a transition or an effect is typic..." alt="" coords="365,668,585,1244"/>
+<area shape="rect" id="node6" title=" " alt="" coords="213,345,363,422"/>
+<area shape="rect" id="node7" href="$structenable__shared__from__this__virtual.html" title=" " alt="" coords="387,323,607,444"/>
+<area shape="rect" id="node8" href="$structObjectId.html" title=" " alt="" coords="631,315,755,451"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="CompositionModel" name="CompositionModel">
+<area shape="rect" id="node1" title="This class represents a Composition object, as viewed by the backend. In general, the Gui associated ..." alt="" coords="127,813,335,1199"/>
+<area shape="rect" id="node2" href="$classMoveableItem.html" title=" " alt="" coords="5,233,217,707"/>
+<area shape="rect" id="node3" href="$classAssetParameterModel.html" title="This class is the model for a list of parameters. The behaviour of a transition or an effect is typic..." alt="" coords="241,175,461,765"/>
+<area shape="rect" id="node4" title=" " alt="" coords="171,27,321,105"/>
+<area shape="rect" id="node5" href="$structenable__shared__from__this__virtual.html" title=" " alt="" coords="345,5,565,127"/>
+</map>

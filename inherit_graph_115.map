@@ -1,0 +1,21 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,253,192,279"/>
+<area shape="rect" id="node2" href="$classAbstractTreeModel.html" title="This class represents a generic tree hierarchy." alt="" coords="276,194,419,221"/>
+<area shape="rect" id="node11" href="$classClipSnapModel.html" title="This class represents the snap points of a clip of the timeline. Basically, one can add or remove sna..." alt="" coords="288,311,407,338"/>
+<area shape="rect" id="node12" href="$classenable__shared__from__this__virtual__base.html" title=" " alt="" coords="270,245,425,287"/>
+<area shape="rect" id="node3" href="$classAssetTreeModel.html" title=" " alt="" coords="544,93,669,119"/>
+<area shape="rect" id="node6" href="$classDocumentCheckerTreeModel.html" title=" " alt="" coords="503,143,711,170"/>
+<area shape="rect" id="node7" href="$classEffectStackModel.html" title=" " alt="" coords="539,194,674,221"/>
+<area shape="rect" id="node8" href="$classProfileTreeModel.html" title=" " alt="" coords="541,245,672,271"/>
+<area shape="rect" id="node9" href="$classProjectItemModel.html" title="Acts as an adaptor to be able to use BinModel with item views." alt="" coords="538,295,675,322"/>
+<area shape="rect" id="node10" href="$classRenderPresetTreeModel.html" title=" " alt="" coords="519,346,695,373"/>
+<area shape="rect" id="node4" href="$classEffectTreeModel.html" title=" " alt="" coords="771,93,898,119"/>
+<area shape="rect" id="node5" href="$classTransitionTreeModel.html" title=" " alt="" coords="759,143,911,170"/>
+<area shape="rect" id="node13" title=" " alt="" coords="21,86,177,113"/>
+<area shape="rect" id="node14" href="$classQAbstractItemModel__shared__from__this.html" title=" " alt="" coords="257,5,437,47"/>
+<area shape="rect" id="node15" href="$classQAbstractItemModel__shared__from__this.html" title=" " alt="" coords="240,71,455,127"/>
+<area shape="rect" id="node16" href="$classTimelineModel.html" title="This class represents a Timeline object, as viewed by the backend. In general, the Gui associated wit..." alt="" coords="547,42,666,69"/>
+<area shape="rect" id="node17" href="$classTimelineItemModel.html" title="This class is the thin wrapper around the TimelineModel that provides interface for the QML." alt="" coords="760,42,909,69"/>
+<area shape="rect" id="node18" href="$classSnapInterface.html" title="This is a base class for snap models (timeline, clips) Implements only basic functions like add or re..." alt="" coords="43,337,155,363"/>
+<area shape="rect" id="node19" href="$classSnapModel.html" title="This class represents the snap points of the timeline. Basically, one can add or remove snap points,..." alt="" coords="300,362,395,389"/>
+</map>

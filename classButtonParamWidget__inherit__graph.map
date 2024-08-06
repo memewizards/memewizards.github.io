@@ -1,0 +1,5 @@
+<map id="ButtonParamWidget" name="ButtonParamWidget">
+<area shape="rect" id="node1" title="This class represents a parameter that requires the user to choose tick a checkbox." alt="" coords="16,359,193,480"/>
+<area shape="rect" id="node2" href="$classAbstractParamWidget.html" title="Base class of all the widgets representing a parameter of an asset (effect or transition)" alt="" coords="5,131,204,311"/>
+<area shape="rect" id="node3" title=" " alt="" coords="65,5,144,83"/>
+</map>

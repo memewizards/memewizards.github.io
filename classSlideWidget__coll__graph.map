@@ -1,0 +1,6 @@
+<map id="SlideWidget" name="SlideWidget">
+<area shape="rect" id="node1" title="Provides options to choose slide." alt="" coords="110,359,281,495"/>
+<area shape="rect" id="node2" href="$classAbstractParamWidget.html" title="Base class of all the widgets representing a parameter of an asset (effect or transition)" alt="" coords="5,131,204,311"/>
+<area shape="rect" id="node3" title=" " alt="" coords="65,5,144,83"/>
+<area shape="rect" id="node4" title=" " alt="" coords="228,182,347,259"/>
+</map>

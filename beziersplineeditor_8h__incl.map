@@ -1,0 +1,20 @@
+<map id="src/assets/view/widgets/curves/bezier/beziersplineeditor.h" name="src/assets/view/widgets/curves/bezier/beziersplineeditor.h">
+<area shape="rect" id="node1" title=" " alt="" coords="206,5,451,47"/>
+<area shape="rect" id="node2" href="$abstractcurvewidget_8h.html" title=" " alt="" coords="366,95,545,121"/>
+<area shape="rect" id="node3" href="$bpoint_8h.html" title=" " alt="" coords="179,169,289,196"/>
+<area shape="rect" id="node5" title=" " alt="" coords="313,169,392,196"/>
+<area shape="rect" id="node13" href="$colortools_8h.html" title=" " alt="" coords="794,95,925,121"/>
+<area shape="rect" id="node16" href="$cubicbezierspline_8h.html" title=" " alt="" coords="58,95,205,121"/>
+<area shape="rect" id="node6" title=" " alt="" coords="417,169,494,196"/>
+<area shape="rect" id="node7" title=" " alt="" coords="518,169,595,196"/>
+<area shape="rect" id="node8" href="$abstractcurvewidget_8ipp.html" title=" " alt="" coords="619,169,798,196"/>
+<area shape="rect" id="node4" title=" " alt="" coords="197,244,271,271"/>
+<area shape="rect" id="node9" title=" " alt="" coords="598,244,691,271"/>
+<area shape="rect" id="node10" title=" " alt="" coords="715,244,827,271"/>
+<area shape="rect" id="node11" title=" " alt="" coords="851,244,963,271"/>
+<area shape="rect" id="node12" title=" " alt="" coords="489,244,574,271"/>
+<area shape="rect" id="node14" title=" " alt="" coords="921,169,995,196"/>
+<area shape="rect" id="node15" title=" " alt="" coords="822,169,897,196"/>
+<area shape="rect" id="node17" title=" " alt="" coords="5,169,60,196"/>
+<area shape="rect" id="node18" title=" " alt="" coords="84,169,155,196"/>
+</map>

@@ -1,0 +1,58 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="51,5,154,32"/>
+<area shape="rect" id="node2" href="$classTrackDialog.html" title=" " alt="" coords="284,5,383,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="33,56,172,83"/>
+<area shape="rect" id="node4" href="$classArchiveWidget.html" title="A widget allowing to archive a project (copy all project files to a new location)" alt="" coords="275,56,392,83"/>
+<area shape="rect" id="node5" title=" " alt="" coords="37,107,169,133"/>
+<area shape="rect" id="node6" href="$classBackupWidget.html" title="A widget allowing to parse backup project files." alt="" coords="276,107,391,133"/>
+<area shape="rect" id="node7" title=" " alt="" coords="19,157,186,184"/>
+<area shape="rect" id="node8" href="$classClipDurationDialog.html" title="A dialog for modifying an item&#39;s (clip or transition) duration." alt="" coords="261,157,406,184"/>
+<area shape="rect" id="node9" title=" " alt="" coords="30,208,175,235"/>
+<area shape="rect" id="node10" href="$classClipJobManager.html" title="A dialog for editing Bin Clip jobs." alt="" coords="271,208,395,235"/>
+<area shape="rect" id="node11" title=" " alt="" coords="41,259,165,285"/>
+<area shape="rect" id="node12" href="$classClipStabilize.html" title=" " alt="" coords="282,259,385,285"/>
+<area shape="rect" id="node13" title=" " alt="" coords="36,309,169,336"/>
+<area shape="rect" id="node14" href="$classClipTranscode.html" title=" " alt="" coords="277,309,389,336"/>
+<area shape="rect" id="node15" title=" " alt="" coords="25,360,180,387"/>
+<area shape="rect" id="node16" href="$classColorPlaneExport.html" title="Exports color planes (e.g. YUV&#45;UV&#45;planes) to a file. Basically just for fun, but also for comparing c..." alt="" coords="266,360,401,387"/>
+<area shape="rect" id="node17" title=" " alt="" coords="25,411,180,437"/>
+<area shape="rect" id="node18" href="$classRenderPresetDialog.html" title=" " alt="" coords="258,411,409,437"/>
+<area shape="rect" id="node19" title=" " alt="" coords="17,917,189,944"/>
+<area shape="rect" id="node20" href="$classExportGuidesDialog.html" title="A dialog for export guides as plain text." alt="" coords="258,917,409,944"/>
+<area shape="rect" id="node21" title=" " alt="" coords="41,968,165,995"/>
+<area shape="rect" id="node22" href="$classGradientWidget.html" title="Title creation dialog Instances of TitleWidget classes are instantiated by KdenliveDoc::slotCreateTex..." alt="" coords="271,968,395,995"/>
+<area shape="rect" id="node23" title=" " alt="" coords="47,1019,158,1045"/>
+<area shape="rect" id="node24" href="$classImportSubtitle.html" title="A dialog for editing markers and guides." alt="" coords="276,1019,391,1045"/>
+<area shape="rect" id="node25" title=" " alt="" coords="35,1069,170,1096"/>
+<area shape="rect" id="node26" href="$classTemporaryData.html" title="Dialog allowing management of cache data." alt="" coords="272,1069,395,1096"/>
+<area shape="rect" id="node27" title=" " alt="" coords="5,1120,200,1147"/>
+<area shape="rect" id="node28" href="$classEncodingProfilesDialog.html" title=" " alt="" coords="248,1120,419,1147"/>
+<area shape="rect" id="node29" title=" " alt="" coords="27,1171,179,1197"/>
+<area shape="rect" id="node30" href="$classManageSubtitles.html" title="A dialog for managing project subtitles." alt="" coords="268,1171,399,1197"/>
+<area shape="rect" id="node31" title=" " alt="" coords="37,1221,168,1248"/>
+<area shape="rect" id="node32" href="$classMarkerDialog.html" title="A dialog for editing markers and guides." alt="" coords="279,1221,388,1248"/>
+<area shape="rect" id="node33" title=" " alt="" coords="40,1272,165,1299"/>
+<area shape="rect" id="node34" href="$classDCResolveDialog.html" title=" " alt="" coords="266,1272,401,1299"/>
+<area shape="rect" id="node35" title=" " alt="" coords="32,1323,173,1349"/>
+<area shape="rect" id="node36" href="$classProjectSettings.html" title=" " alt="" coords="273,1323,393,1349"/>
+<area shape="rect" id="node37" title=" " alt="" coords="65,791,140,817"/>
+<area shape="rect" id="node38" href="$classGenerators.html" title="Base class for clip generators." alt="" coords="286,765,381,792"/>
+<area shape="rect" id="node39" href="$classInvalidDialog.html" title=" " alt="" coords="279,816,387,843"/>
+<area shape="rect" id="node40" href="$classKeyframeImport.html" title=" " alt="" coords="269,867,397,893"/>
+<area shape="rect" id="node41" href="$classProfilesDialog.html" title=" " alt="" coords="277,461,389,488"/>
+<area shape="rect" id="node42" href="$classProxyTest.html" title="A dialog to compare the proxy profiles." alt="" coords="291,1373,376,1400"/>
+<area shape="rect" id="node43" href="$classRenderWidget.html" title=" " alt="" coords="276,512,391,539"/>
+<area shape="rect" id="node44" href="$classSlideshowClip.html" title=" " alt="" coords="277,563,390,589"/>
+<area shape="rect" id="node45" href="$classSpacerDialog.html" title="A dialog to specify length and track of inserted space." alt="" coords="279,1424,387,1451"/>
+<area shape="rect" id="node46" href="$classSpeechDialog.html" title="A dialog for editing markers and guides." alt="" coords="278,1475,389,1501"/>
+<area shape="rect" id="node47" href="$classSpeedDialog.html" title=" " alt="" coords="281,613,385,640"/>
+<area shape="rect" id="node48" href="$classTitleTemplateDialog.html" title=" " alt="" coords="257,664,410,691"/>
+<area shape="rect" id="node49" href="$classTitleWidget.html" title="Title creation dialog Instances of TitleWidget classes are instantiated by KdenliveDoc::slotCreateTex..." alt="" coords="285,1525,382,1552"/>
+<area shape="rect" id="node50" href="$classTranscodeSeek.html" title=" " alt="" coords="274,1576,393,1603"/>
+<area shape="rect" id="node51" href="$classUnicodeDialog.html" title=" " alt="" coords="275,715,392,741"/>
+<area shape="rect" id="node52" title=" " alt="" coords="38,1424,167,1451"/>
+<area shape="rect" id="node53" title=" " alt="" coords="37,1475,169,1501"/>
+<area shape="rect" id="node54" title=" " alt="" coords="49,1373,156,1400"/>
+<area shape="rect" id="node55" title=" " alt="" coords="43,1525,162,1552"/>
+<area shape="rect" id="node56" title=" " alt="" coords="19,1576,186,1603"/>
+</map>

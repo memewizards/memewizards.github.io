@@ -1,0 +1,4 @@
+<map id="ProfileModel" name="ProfileModel">
+<area shape="rect" id="node1" title="This is a wrapper around Mlt::Profile to be used by the rest of kdenlive. It has implicit conversion ..." alt="" coords="5,277,176,560"/>
+<area shape="rect" id="node2" href="$classProfileInfo.html" title="This is a virtual class that represents any profile that we can get info from." alt="" coords="13,5,168,229"/>
+</map>

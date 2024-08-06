@@ -1,0 +1,3 @@
+<map id="SharedFrame" name="SharedFrame">
+<area shape="rect" id="node1" title="The SharedFrame provides thread safe access to Mlt::Frame data." alt="" coords="5,5,149,229"/>
+</map>

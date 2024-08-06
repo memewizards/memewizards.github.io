@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classAbstractAssetsRepository.html" title=" " alt="" coords="5,23,220,65"/>
+<area shape="rect" id="node2" href="$classEffectsRepository.html" title="This class stores all the effects that can be added by the user. You can query any effect based on it..." alt="" coords="281,5,417,32"/>
+<area shape="rect" id="node3" href="$classTransitionsRepository.html" title="This class stores all the transitions that can be added by the user. You can query any transitions ba..." alt="" coords="268,56,431,83"/>
+</map>

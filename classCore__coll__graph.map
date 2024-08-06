@@ -1,0 +1,5 @@
+<map id="Core" name="Core">
+<area shape="rect" id="node1" title="Singleton that provides access to the different parts of Kdenlive." alt="" coords="5,448,201,936"/>
+<area shape="rect" id="node2" title=" " alt="" coords="61,5,135,83"/>
+<area shape="rect" id="node3" href="$classTaskManager.html" title="This class is responsible for clip jobs management." alt="" coords="119,132,309,385"/>
+</map>

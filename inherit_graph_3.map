@@ -1,0 +1,84 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classClipController.html" title="Provides a convenience wrapper around the project Bin clip producers. It also holds a QList of track ..." alt="" coords="565,375,675,402"/>
+<area shape="rect" id="node2" href="$classProjectClip.html" title="Represents a clip in the project (not timeline). It will be displayed as a bin item that can be dragg..." alt="" coords="783,375,875,402"/>
+<area shape="rect" id="node3" href="$structenable__shared__from__this__virtual.html" title=" " alt="" coords="253,34,473,90"/>
+<area shape="rect" id="node4" href="$classAssetParameterModel.html" title="This class is the model for a list of parameters. The behaviour of a transition or an effect is typic..." alt="" coords="537,71,703,98"/>
+<area shape="rect" id="node5" href="$classCompositionModel.html" title="This class represents a Composition object, as viewed by the backend. In general, the Gui associated ..." alt="" coords="757,42,901,69"/>
+<area shape="rect" id="node6" href="$classEffectItemModel.html" title="This represents an effect of the effectstack." alt="" coords="765,169,894,195"/>
+<area shape="rect" id="node7" href="$structenable__shared__from__this__virtual.html" title=" " alt="" coords="243,115,483,156"/>
+<area shape="rect" id="node8" href="$classMarkerListModel.html" title="This class is the model for a list of markers. A marker is defined by a time, a type (the color used ..." alt="" coords="555,122,685,149"/>
+<area shape="rect" id="node9" href="$structenable__shared__from__this__virtual.html" title=" " alt="" coords="5,368,195,409"/>
+<area shape="rect" id="node10" href="$classTreeItem.html" title="This class is a generic class to represent items of a tree&#45;like model. It works in tandem with Abstra..." alt="" coords="323,375,402,402"/>
+<area shape="rect" id="node11" href="$classAbstractEffectItem.html" title="This represents an effect of the effectstack." alt="" coords="549,325,691,351"/>
+<area shape="rect" id="node13" href="$classAbstractProjectItem.html" title="Base class for all project items (clips, folders, ...)." alt="" coords="545,426,695,453"/>
+<area shape="rect" id="node12" href="$classEffectGroupModel.html" title="This represents a group of effects of the effectstack." alt="" coords="760,325,899,351"/>
+<area shape="rect" id="node14" href="$classProjectFolder.html" title="A folder in the bin." alt="" coords="776,477,883,503"/>
+<area shape="rect" id="node15" href="$classProjectSubClip.html" title="Represents a clip in the project (not timeline)." alt="" coords="771,426,887,453"/>
+<area shape="rect" id="node16" href="$classMoveableItem.html" title=" " alt="" coords="540,5,700,47"/>
+<area shape="rect" id="node17" title=" " alt="" coords="288,181,437,207"/>
+<area shape="rect" id="node18" href="$classKeyframeModel.html" title="This class is the model for a list of keyframes. A keyframe is defined by a time, a type and a value ..." alt="" coords="557,173,683,199"/>
+<area shape="rect" id="node19" href="$classPatternsModel.html" title=" " alt="" coords="563,223,677,250"/>
+<area shape="rect" id="node20" href="$classSubtitleModel.html" title="This class is the model for a list of subtitles." alt="" coords="564,274,676,301"/>
+<area shape="rect" id="node21" title=" " alt="" coords="325,1794,400,1821"/>
+<area shape="rect" id="node22" href="$classAbstractPythonInterface.html" title=" " alt="" coords="531,2275,709,2302"/>
+<area shape="rect" id="node25" href="$classAbstractRender.html" title=" " alt="" coords="559,2326,681,2353"/>
+<area shape="rect" id="node27" href="$classAbstractTask.html" title=" " alt="" coords="567,755,673,782"/>
+<area shape="rect" id="node39" href="$classAssetIconProvider.html" title="@todo Describe class AssetIconProvider" alt="" coords="551,2427,689,2454"/>
+<area shape="rect" id="node40" href="$classAudioCorrelation.html" title=" " alt="" coords="555,2478,685,2505"/>
+<area shape="rect" id="node41" href="$classAudioEnvelope.html" title=" " alt="" coords="561,2529,679,2555"/>
+<area shape="rect" id="node42" href="$classBinPlaylist.html" title="This class is a wrapper around a melt playlist that allows one to store the Bin. Clips that are in th..." alt="" coords="575,2579,665,2606"/>
+<area shape="rect" id="node43" href="$classClipboardProxy.html" title="Provides an interface to the clipboard, to use directly from QML Inspired by https://stackoverflow...." alt="" coords="559,2630,681,2657"/>
+<area shape="rect" id="node44" href="$classColorTools.html" title="@todo Describe class ColorTools" alt="" coords="575,2681,665,2707"/>
+<area shape="rect" id="node45" href="$classCore.html" title="Singleton that provides access to the different parts of Kdenlive." alt="" coords="594,2731,646,2758"/>
+<area shape="rect" id="node46" href="$classDockTitleBarManager.html" title="Helper for dock widget title bars eg. to change the visible state or add context menus." alt="" coords="539,2782,701,2809"/>
+<area shape="rect" id="node47" href="$classDocumentChecker.html" title=" " alt="" coords="549,2833,691,2859"/>
+<area shape="rect" id="node48" href="$classFileWatcher.html" title="This class is responsible for watching all files used in the project and triggers a reload notificati..." alt="" coords="571,2883,669,2910"/>
+<area shape="rect" id="node49" href="$classGlaxnimateLauncher.html" title=" " alt="" coords="541,806,699,833"/>
+<area shape="rect" id="node50" href="$classGuideFilterEventEater.html" title="@todo Describe class LineEventEater" alt="" coords="538,857,702,883"/>
+<area shape="rect" id="node51" href="$classHistogramGenerator.html" title=" " alt="" coords="543,907,697,934"/>
+<area shape="rect" id="node52" href="$classJogManager.html" title="Turns JogShuttle support on/off according to KdenliveSettings and connects between JogShuttleAction a..." alt="" coords="571,958,669,985"/>
+<area shape="rect" id="node53" href="$classJogShuttle.html" title=" " alt="" coords="576,1009,664,1035"/>
+<area shape="rect" id="node54" href="$classJogShuttleAction.html" title=" " alt="" coords="555,1059,685,1086"/>
+<area shape="rect" id="node55" href="$classJogShuttleConfig.html" title=" " alt="" coords="555,1110,685,1137"/>
+<area shape="rect" id="node56" href="$classKdenliveDoc.html" title="Represents a kdenlive project file." alt="" coords="568,1161,672,1187"/>
+<area shape="rect" id="node57" href="$classKeyframeModelList.html" title="This class is a container for the keyframe models. If an asset has several keyframable parameters,..." alt="" coords="546,1211,694,1238"/>
+<area shape="rect" id="node58" href="$classKeyframeMonitorHelper.html" title="This class helps manage effects that receive data from the monitor&#39;s qml overlay to translate the dat..." alt="" coords="531,1262,709,1289"/>
+<area shape="rect" id="node62" href="$classLayoutManagement.html" title=" " alt="" coords="544,1313,696,1339"/>
+<area shape="rect" id="node63" href="$classLineEventEater.html" title="@todo Describe class LineEventEater" alt="" coords="560,1363,680,1390"/>
+<area shape="rect" id="node64" href="$classMediaCapture.html" title=" " alt="" coords="563,1414,677,1441"/>
+<area shape="rect" id="node65" href="$classMetalVideoRenderer.html" title=" " alt="" coords="543,1465,697,1491"/>
+<area shape="rect" id="node66" href="$classMonitorManager.html" title=" " alt="" coords="555,1515,685,1542"/>
+<area shape="rect" id="node67" href="$classMonitorProxy.html" title="This class is a wrapper around the monitor / glwidget and handles communication with the qml overlay ..." alt="" coords="565,1566,675,1593"/>
+<area shape="rect" id="node68" href="$classNotesPlugin.html" title="Handles connection of NotesWidget." alt="" coords="570,1617,670,1643"/>
+<area shape="rect" id="node69" href="$classPreviewManager.html" title="Handles timeline preview. This manager creates an additional video track on top of the current timeli..." alt="" coords="555,1667,685,1694"/>
+<area shape="rect" id="node70" href="$classProjectManager.html" title="Takes care of interaction with projects." alt="" coords="558,1718,682,1745"/>
+<area shape="rect" id="node71" href="$classProviderModel.html" title=" " alt="" coords="562,1769,678,1795"/>
+<area shape="rect" id="node72" href="$classQmlManager.html" title="Manages all Qml monitor overlays." alt="" coords="567,1819,673,1846"/>
+<area shape="rect" id="node73" href="$classRecManager.html" title="All recording specific features are gathered here." alt="" coords="569,1870,671,1897"/>
+<area shape="rect" id="node74" href="$classRenderServer.html" title=" " alt="" coords="565,1921,675,1947"/>
+<area shape="rect" id="node75" href="$classRGBParadeGenerator.html" title=" " alt="" coords="541,1971,699,1998"/>
+<area shape="rect" id="node76" href="$classScopeManager.html" title="Manages communication between Scopes and Renderer." alt="" coords="561,2022,679,2049"/>
+<area shape="rect" id="node77" href="$classShiftEnterFilter.html" title=" " alt="" coords="561,2073,679,2099"/>
+<area shape="rect" id="node78" href="$classTaskManager.html" title="This class is responsible for clip jobs management." alt="" coords="566,2123,674,2150"/>
+<area shape="rect" id="node79" href="$classTimelineController.html" title=" " alt="" coords="549,2174,691,2201"/>
+<area shape="rect" id="node80" href="$classVectorscopeGenerator.html" title=" " alt="" coords="537,2225,703,2251"/>
+<area shape="rect" id="node81" href="$classWaveformGenerator.html" title=" " alt="" coords="543,2377,697,2403"/>
+<area shape="rect" id="node23" href="$classOtioConvertions.html" title=" " alt="" coords="766,2275,893,2302"/>
+<area shape="rect" id="node24" href="$classSpeechToText.html" title=" " alt="" coords="774,2225,885,2251"/>
+<area shape="rect" id="node26" href="$classMltDeviceCapture.html" title="Interface for MLT capture. Capturing started by MltDeviceCapture::slotStartCapture () Capturing is st..." alt="" coords="760,2326,899,2353"/>
+<area shape="rect" id="node28" href="$classAudioLevelsTask.html" title=" " alt="" coords="764,679,895,706"/>
+<area shape="rect" id="node29" href="$classCacheTask.html" title=" " alt="" coords="784,730,875,757"/>
+<area shape="rect" id="node30" href="$classClipLoadTask.html" title=" " alt="" coords="776,781,883,807"/>
+<area shape="rect" id="node31" href="$classCustomJobTask.html" title=" " alt="" coords="769,831,890,858"/>
+<area shape="rect" id="node32" href="$classCutTask.html" title=" " alt="" coords="793,882,866,909"/>
+<area shape="rect" id="node33" href="$classFilterTask.html" title=" " alt="" coords="787,933,871,959"/>
+<area shape="rect" id="node34" href="$classProxyTask.html" title=" " alt="" coords="785,983,873,1010"/>
+<area shape="rect" id="node35" href="$classSceneSplitTask.html" title=" " alt="" coords="770,1034,889,1061"/>
+<area shape="rect" id="node36" href="$classSpeedTask.html" title=" " alt="" coords="784,527,875,554"/>
+<area shape="rect" id="node37" href="$classStabilizeTask.html" title=" " alt="" coords="776,578,883,605"/>
+<area shape="rect" id="node38" href="$classTranscodeTask.html" title=" " alt="" coords="771,629,887,655"/>
+<area shape="rect" id="node59" href="$classCornersHelper.html" title=" " alt="" coords="772,1211,887,1238"/>
+<area shape="rect" id="node60" href="$classRectHelper.html" title=" " alt="" coords="782,1262,877,1289"/>
+<area shape="rect" id="node61" href="$classRotoHelper.html" title="@todo Describe class RotoHelper" alt="" coords="782,1313,877,1339"/>
+<area shape="rect" id="node82" title=" " alt="" coords="316,755,409,782"/>
+</map>

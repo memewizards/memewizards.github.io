@@ -1,0 +1,10 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,151,57"/>
+<area shape="rect" id="node2" href="$classOpenGLVideoWidget.html" title=" " alt="" coords="372,5,527,32"/>
+<area shape="rect" id="node3" href="$classVideoWidget.html" title="QQuickView that renders an ." alt="" coords="209,56,314,83"/>
+<area shape="rect" id="node4" href="$classD3DVideoWidget.html" title=" " alt="" coords="383,56,516,83"/>
+<area shape="rect" id="node5" href="$classMetalVideoWidget.html" title=" " alt="" coords="378,107,521,133"/>
+<area shape="rect" id="node6" title=" " alt="" coords="21,107,135,133"/>
+<area shape="rect" id="node7" href="$classBuiltStack.html" title=" " alt="" coords="217,107,305,133"/>
+<area shape="rect" id="node8" href="$classTimelineWidget.html" title=" " alt="" coords="199,157,324,184"/>
+</map>

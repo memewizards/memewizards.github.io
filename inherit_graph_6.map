@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,233,139,260"/>
+<area shape="rect" id="node2" href="$classAssetCommand.html" title="@todo Describe class AssetCommand" alt="" coords="235,5,360,32"/>
+<area shape="rect" id="node3" href="$classAssetKeyframeCommand.html" title="@todo Describe class AssetKeyframeCommand" alt="" coords="203,56,391,83"/>
+<area shape="rect" id="node4" href="$classAssetMultiCommand.html" title="@todo Describe class AssetMultiCommand" alt="" coords="218,107,377,133"/>
+<area shape="rect" id="node5" href="$classAssetMultiKeyframeCommand.html" title="@todo Describe class AssetKeyframeCommand" alt="" coords="187,157,408,184"/>
+<area shape="rect" id="node6" href="$classAssetUpdateCommand.html" title="@todo Describe class AssetUpdateCommand" alt="" coords="211,208,383,235"/>
+<area shape="rect" id="node7" href="$classEditClipCommand.html" title=" " alt="" coords="228,259,367,285"/>
+<area shape="rect" id="node8" href="$classFunctionalUndoCommand.html" title="this is a generic class that takes fonctors as undo and redo actions. It just executes them when requ..." alt="" coords="202,309,393,336"/>
+<area shape="rect" id="node9" href="$classMoveBinClipCommand.html" title=" " alt="" coords="212,360,383,387"/>
+<area shape="rect" id="node10" href="$classMoveBinFolderCommand.html" title=" " alt="" coords="204,411,391,437"/>
+<area shape="rect" id="node11" href="$classRenameBinSubClipCommand.html" title=" " alt="" coords="191,461,404,488"/>
+</map>

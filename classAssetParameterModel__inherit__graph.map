@@ -1,0 +1,7 @@
+<map id="AssetParameterModel" name="AssetParameterModel">
+<area shape="rect" id="node1" title="This class is the model for a list of parameters. The behaviour of a transition or an effect is typic..." alt="" coords="102,175,322,765"/>
+<area shape="rect" id="node4" href="$classCompositionModel.html" title="This class represents a Composition object, as viewed by the backend. In general, the Gui associated ..." alt="" coords="5,813,213,1199"/>
+<area shape="rect" id="node5" href="$classEffectItemModel.html" title="This represents an effect of the effectstack." alt="" coords="237,857,392,1155"/>
+<area shape="rect" id="node2" title=" " alt="" coords="33,27,183,105"/>
+<area shape="rect" id="node3" href="$structenable__shared__from__this__virtual.html" title=" " alt="" coords="207,5,427,127"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="MetalVideoWidget" name="MetalVideoWidget">
+<area shape="rect" id="node1" title=" " alt="" coords="128,1108,307,1244"/>
+<area shape="rect" id="node2" href="$classVideoWidget.html" title="QQuickView that renders an ." alt="" coords="96,292,339,1059"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,79,120,156"/>
+<area shape="rect" id="node4" title=" " alt="" coords="145,79,290,156"/>
+<area shape="rect" id="node5" href="$classSharedFrame.html" title="The SharedFrame provides thread safe access to Mlt::Frame data." alt="" coords="315,5,459,229"/>
+</map>

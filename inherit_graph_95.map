@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classProfileInfo.html" title="This is a virtual class that represents any profile that we can get info from." alt="" coords="5,31,93,57"/>
+<area shape="rect" id="node2" href="$classProfileModel.html" title="This is a wrapper around Mlt::Profile to be used by the rest of kdenlive. It has implicit conversion ..." alt="" coords="142,5,245,32"/>
+<area shape="rect" id="node3" href="$classProfileParam.html" title="This class serves to describe the parameters of a profile." alt="" coords="141,56,245,83"/>
+</map>

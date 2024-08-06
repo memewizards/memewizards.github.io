@@ -1,0 +1,4 @@
+<map id="ClipController" name="ClipController">
+<area shape="rect" id="node1" title="Provides a convenience wrapper around the project Bin clip producers. It also holds a QList of track ..." alt="" coords="33,5,243,552"/>
+<area shape="rect" id="node2" href="$classProjectClip.html" title="Represents a clip in the project (not timeline). It will be displayed as a bin item that can be dragg..." alt="" coords="5,600,271,1220"/>
+</map>

@@ -1,0 +1,39 @@
+<map id="src/timeline2/model/groupsmodel.cpp" name="src/timeline2/model/groupsmodel.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="1377,5,1529,47"/>
+<area shape="rect" id="node2" href="$groupsmodel_8hpp.html" title=" " alt="" coords="708,244,843,271"/>
+<area shape="rect" id="node20" href="$macros_8hpp.html" title=" " alt="" coords="1117,95,1215,121"/>
+<area shape="rect" id="node21" href="$timelineitemmodel_8hpp.html" title=" " alt="" coords="867,95,1041,121"/>
+<area shape="rect" id="node23" href="$trackmodel_8hpp.html" title=" " alt="" coords="1036,244,1160,271"/>
+<area shape="rect" id="node30" title=" " alt="" coords="1239,95,1314,121"/>
+<area shape="rect" id="node31" title=" " alt="" coords="1339,95,1433,121"/>
+<area shape="rect" id="node32" title=" " alt="" coords="1457,95,1584,121"/>
+<area shape="rect" id="node33" title=" " alt="" coords="1609,95,1710,121"/>
+<area shape="rect" id="node34" title=" " alt="" coords="1735,95,1843,121"/>
+<area shape="rect" id="node35" title=" " alt="" coords="1867,95,1929,121"/>
+<area shape="rect" id="node36" title=" " alt="" coords="1953,95,2011,121"/>
+<area shape="rect" id="node37" title=" " alt="" coords="2035,95,2095,121"/>
+<area shape="rect" id="node3" href="$definitions_8h.html" title=" " alt="" coords="481,319,584,345"/>
+<area shape="rect" id="node13" title=" " alt="" coords="1289,393,1366,420"/>
+<area shape="rect" id="node14" href="$undohelper_8hpp.html" title=" " alt="" coords="334,319,457,345"/>
+<area shape="rect" id="node17" title=" " alt="" coords="1437,319,1567,345"/>
+<area shape="rect" id="node18" title=" " alt="" coords="608,319,732,345"/>
+<area shape="rect" id="node19" title=" " alt="" coords="807,319,922,345"/>
+<area shape="rect" id="node4" href="$gentime_8h.html" title=" " alt="" coords="522,393,642,420"/>
+<area shape="rect" id="node5" title=" " alt="" coords="453,468,524,495"/>
+<area shape="rect" id="node7" title=" " alt="" coords="667,393,804,420"/>
+<area shape="rect" id="node8" title=" " alt="" coords="829,393,946,420"/>
+<area shape="rect" id="node9" title=" " alt="" coords="969,393,1035,420"/>
+<area shape="rect" id="node10" title=" " alt="" coords="274,393,447,420"/>
+<area shape="rect" id="node11" title=" " alt="" coords="1573,393,1636,420"/>
+<area shape="rect" id="node12" title=" " alt="" coords="1753,393,1822,420"/>
+<area shape="rect" id="node6" title=" " alt="" coords="551,468,613,495"/>
+<area shape="rect" id="node15" title=" " alt="" coords="5,393,92,420"/>
+<area shape="rect" id="node16" title=" " alt="" coords="117,393,250,420"/>
+<area shape="rect" id="node22" href="$timelinemodel_8hpp.html" title=" " alt="" coords="1353,169,1499,196"/>
+<area shape="rect" id="node27" title=" " alt="" coords="1693,319,1839,345"/>
+<area shape="rect" id="node28" title=" " alt="" coords="1515,244,1671,271"/>
+<area shape="rect" id="node29" title=" " alt="" coords="1695,244,1757,271"/>
+<area shape="rect" id="node24" title=" " alt="" coords="946,319,1069,345"/>
+<area shape="rect" id="node25" title=" " alt="" coords="1093,319,1244,345"/>
+<area shape="rect" id="node26" title=" " alt="" coords="1269,319,1413,345"/>
+</map>

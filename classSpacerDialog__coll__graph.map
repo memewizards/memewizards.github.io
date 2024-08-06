@@ -1,0 +1,5 @@
+<map id="SpacerDialog" name="SpacerDialog">
+<area shape="rect" id="node1" title="A dialog to specify length and track of inserted space." alt="" coords="31,131,190,252"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,80,83"/>
+<area shape="rect" id="node3" title=" " alt="" coords="105,5,255,83"/>
+</map>

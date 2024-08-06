@@ -1,0 +1,5 @@
+<map id="MltDeviceCapture" name="MltDeviceCapture">
+<area shape="rect" id="node1" title="Interface for MLT capture. Capturing started by MltDeviceCapture::slotStartCapture () Capturing is st..." alt="" coords="5,315,201,568"/>
+<area shape="rect" id="node2" href="$classAbstractRender.html" title=" " alt="" coords="11,131,195,267"/>
+<area shape="rect" id="node3" title=" " alt="" coords="66,5,141,83"/>
+</map>

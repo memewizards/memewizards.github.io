@@ -1,0 +1,6 @@
+<map id="Spectrogram" name="Spectrogram">
+<area shape="rect" id="node1" title="This Spectrogram shows the spectral power distribution of incoming audio samples over time...." alt="" coords="11,1232,267,1500"/>
+<area shape="rect" id="node2" href="$classAbstractAudioScopeWidget.html" title="Abstract class for scopes analyzing audio samples." alt="" coords="22,1019,257,1184"/>
+<area shape="rect" id="node3" href="$classAbstractScopeWidget.html" title="Abstract class for audio/colour scopes (receive data and paint it)." alt="" coords="5,131,273,971"/>
+<area shape="rect" id="node4" title=" " alt="" coords="100,5,179,83"/>
+</map>

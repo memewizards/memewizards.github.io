@@ -1,0 +1,52 @@
+<map id="src/assets/view/widgets/listdependencyparamwidget.cpp" name="src/assets/view/widgets/listdependencyparamwidget.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="3172,5,3410,47"/>
+<area shape="rect" id="node2" href="$listdependencyparamwidget_8h.html" title=" " alt="" coords="263,95,482,121"/>
+<area shape="rect" id="node8" href="$assetparametermodel_8hpp.html" title=" " alt="" coords="654,177,939,203"/>
+<area shape="rect" id="node10" title=" " alt="" coords="446,333,563,360"/>
+<area shape="rect" id="node18" href="$core_8h.html" title=" " alt="" coords="2097,95,2160,121"/>
+<area shape="rect" id="node35" href="$mainwindow_8h.html" title=" " alt="" coords="3125,95,3241,121"/>
+<area shape="rect" id="node45" title=" " alt="" coords="3266,95,3316,121"/>
+<area shape="rect" id="node46" title=" " alt="" coords="3340,95,3471,121"/>
+<area shape="rect" id="node47" title=" " alt="" coords="3495,95,3620,121"/>
+<area shape="rect" id="node48" title=" " alt="" coords="3644,95,3754,121"/>
+<area shape="rect" id="node49" title=" " alt="" coords="3778,95,3967,121"/>
+<area shape="rect" id="node50" title=" " alt="" coords="3991,95,4114,121"/>
+<area shape="rect" id="node3" href="$abstractparamwidget_8hpp.html" title=" " alt="" coords="436,169,629,211"/>
+<area shape="rect" id="node4" title=" " alt="" coords="206,259,285,285"/>
+<area shape="rect" id="node6" title=" " alt="" coords="52,177,309,203"/>
+<area shape="rect" id="node7" title=" " alt="" coords="333,177,412,203"/>
+<area shape="rect" id="node5" title=" " alt="" coords="1435,333,1512,360"/>
+<area shape="rect" id="node9" href="$definitions_8h.html" title=" " alt="" coords="1736,259,1838,285"/>
+<area shape="rect" id="node13" title=" " alt="" coords="937,259,1074,285"/>
+<area shape="rect" id="node14" title=" " alt="" coords="1511,259,1660,285"/>
+<area shape="rect" id="node15" title=" " alt="" coords="593,259,720,285"/>
+<area shape="rect" id="node16" title=" " alt="" coords="1266,259,1390,285"/>
+<area shape="rect" id="node17" title=" " alt="" coords="744,259,913,285"/>
+<area shape="rect" id="node11" title=" " alt="" coords="3002,333,3073,360"/>
+<area shape="rect" id="node12" title=" " alt="" coords="1845,333,1908,360"/>
+<area shape="rect" id="node19" href="$taskmanager_8h.html" title=" " alt="" coords="1622,177,1773,203"/>
+<area shape="rect" id="node20" title=" " alt="" coords="2003,259,2078,285"/>
+<area shape="rect" id="node21" title=" " alt="" coords="2209,259,2314,285"/>
+<area shape="rect" id="node22" href="$kdenlivecore__export_8h.html" title=" " alt="" coords="2656,177,2822,203"/>
+<area shape="rect" id="node23" href="$undohelper_8hpp.html" title=" " alt="" coords="1798,177,1920,203"/>
+<area shape="rect" id="node24" href="$timecode_8h.html" title=" " alt="" coords="2974,259,3101,285"/>
+<area shape="rect" id="node25" title=" " alt="" coords="1944,177,2091,203"/>
+<area shape="rect" id="node26" title=" " alt="" coords="2166,177,2232,203"/>
+<area shape="rect" id="node27" title=" " alt="" coords="2257,177,2330,203"/>
+<area shape="rect" id="node28" title=" " alt="" coords="2406,177,2472,203"/>
+<area shape="rect" id="node29" title=" " alt="" coords="2496,177,2580,203"/>
+<area shape="rect" id="node30" title=" " alt="" coords="963,177,1014,203"/>
+<area shape="rect" id="node31" title=" " alt="" coords="2846,177,3000,203"/>
+<area shape="rect" id="node32" title=" " alt="" coords="1038,177,1152,203"/>
+<area shape="rect" id="node33" title=" " alt="" coords="1176,177,1320,203"/>
+<area shape="rect" id="node34" title=" " alt="" coords="1345,177,1496,203"/>
+<area shape="rect" id="node36" title=" " alt="" coords="3177,177,3280,203"/>
+<area shape="rect" id="node37" title=" " alt="" coords="3304,177,3475,203"/>
+<area shape="rect" id="node38" title=" " alt="" coords="3500,177,3610,203"/>
+<area shape="rect" id="node39" title=" " alt="" coords="3635,177,3704,203"/>
+<area shape="rect" id="node40" title=" " alt="" coords="3729,177,3802,203"/>
+<area shape="rect" id="node41" title=" " alt="" coords="3826,177,3886,203"/>
+<area shape="rect" id="node42" title=" " alt="" coords="3910,177,3997,203"/>
+<area shape="rect" id="node43" title=" " alt="" coords="4022,177,4120,203"/>
+<area shape="rect" id="node44" title=" " alt="" coords="4144,177,4275,203"/>
+</map>

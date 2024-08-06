@@ -1,0 +1,6 @@
+<map id="ScopeWidget" name="ScopeWidget">
+<area shape="rect" id="node1" title="The ScopeWidget provides a common interface for all scopes in Shotcut." alt="" coords="135,131,282,296"/>
+<area shape="rect" id="node3" href="$classAudioGraphSpectrum.html" title="An audio spectrum." alt="" coords="5,373,201,495"/>
+<area shape="rect" id="node4" href="$classMonitorAudioLevel.html" title=" " alt="" coords="225,344,405,524"/>
+<area shape="rect" id="node2" title=" " alt="" coords="169,5,248,83"/>
+</map>

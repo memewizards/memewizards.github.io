@@ -1,0 +1,11 @@
+<map id="TreeItem" name="TreeItem">
+<area shape="rect" id="node1" title="This class is a generic class to represent items of a tree&#45;like model. It works in tandem with Abstra..." alt="" coords="297,160,476,604"/>
+<area shape="rect" id="node3" href="$classAbstractEffectItem.html" title="This represents an effect of the effectstack." alt="" coords="173,703,365,986"/>
+<area shape="rect" id="node6" href="$classAbstractProjectItem.html" title="Base class for all project items (clips, folders, ...)." alt="" coords="536,652,720,1037"/>
+<area shape="rect" id="node2" href="$structenable__shared__from__this__virtual.html" title=" " alt="" coords="292,5,481,112"/>
+<area shape="rect" id="node4" href="$classEffectGroupModel.html" title="This represents a group of effects of the effectstack." alt="" coords="5,1298,168,1493"/>
+<area shape="rect" id="node5" href="$classEffectItemModel.html" title="This represents an effect of the effectstack." alt="" coords="192,1247,347,1544"/>
+<area shape="rect" id="node7" href="$classProjectClip.html" title="Represents a clip in the project (not timeline). It will be displayed as a bin item that can be dragg..." alt="" coords="371,1085,637,1705"/>
+<area shape="rect" id="node8" href="$classProjectFolder.html" title="A folder in the bin." alt="" coords="661,1239,845,1551"/>
+<area shape="rect" id="node9" href="$classProjectSubClip.html" title="Represents a clip in the project (not timeline)." alt="" coords="869,1269,1053,1522"/>
+</map>

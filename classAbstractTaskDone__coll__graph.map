@@ -1,0 +1,3 @@
+<map id="AbstractTaskDone" name="AbstractTaskDone">
+<area shape="rect" id="node1" title="When destroyed, notifies the taskManager that this task is done." alt="" coords="5,5,180,97"/>
+</map>

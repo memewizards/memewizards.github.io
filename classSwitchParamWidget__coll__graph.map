@@ -1,0 +1,6 @@
+<map id="SwitchParamWidget" name="SwitchParamWidget">
+<area shape="rect" id="node1" title="This class represents a parameter that requires the user to choose tick a checkbox." alt="" coords="117,359,295,465"/>
+<area shape="rect" id="node2" href="$classAbstractParamWidget.html" title="Base class of all the widgets representing a parameter of an asset (effect or transition)" alt="" coords="5,131,204,311"/>
+<area shape="rect" id="node3" title=" " alt="" coords="65,5,144,83"/>
+<area shape="rect" id="node4" title=" " alt="" coords="228,182,387,259"/>
+</map>

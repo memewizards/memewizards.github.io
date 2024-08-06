@@ -1,0 +1,107 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="253,56,411,83"/>
+<area shape="rect" id="node2" href="$classBoolParamWidget.html" title="This class represents a parameter that requires the user to choose tick a checkbox." alt="" coords="565,5,703,32"/>
+<area shape="rect" id="node3" href="$classMultiSwitchParamWidget.html" title="This class represents a parameter that requires the user to choose tick a checkbox." alt="" coords="541,56,727,83"/>
+<area shape="rect" id="node4" href="$classSwitchParamWidget.html" title="This class represents a parameter that requires the user to choose tick a checkbox." alt="" coords="558,107,710,133"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,1037,167,1064"/>
+<area shape="rect" id="node6" href="$classAbstractCollapsibleWidget.html" title=" " alt="" coords="235,1037,429,1064"/>
+<area shape="rect" id="node7" href="$classCollapsibleEffectView.html" title="A container for the parameters of an effect." alt="" coords="553,1019,715,1045"/>
+<area shape="rect" id="node8" title=" " alt="" coords="287,157,377,184"/>
+<area shape="rect" id="node9" href="$classFontParamWidget.html" title="This class represents a parameter that requires the user to choose tick a checkbox." alt="" coords="565,157,703,184"/>
+<area shape="rect" id="node10" title=" " alt="" coords="11,1111,161,1137"/>
+<area shape="rect" id="node11" href="$classGuideCategories.html" title="A widget allowing to configure guide categories." alt="" coords="267,1111,397,1137"/>
+<area shape="rect" id="node12" title=" " alt="" coords="31,1161,141,1188"/>
+<area shape="rect" id="node13" href="$classGuidesList.html" title="A widget listing project guides and allowing some advanced editing." alt="" coords="287,1161,377,1188"/>
+<area shape="rect" id="node14" title=" " alt="" coords="273,208,391,235"/>
+<area shape="rect" id="node15" href="$classKeywordParamWidget.html" title="This class represents a parameter that requires the user to choose tick a checkbox." alt="" coords="551,208,717,235"/>
+<area shape="rect" id="node16" title=" " alt="" coords="215,259,449,285"/>
+<area shape="rect" id="node17" href="$classListDependencyParamWidget.html" title="This class represents a parameter that requires the user to choose a value from a list." alt="" coords="527,259,741,285"/>
+<area shape="rect" id="node18" title=" " alt="" coords="255,309,409,336"/>
+<area shape="rect" id="node19" href="$classListParamWidget.html" title="This class represents a parameter that requires the user to choose a value from a list." alt="" coords="568,309,700,336"/>
+<area shape="rect" id="node20" title=" " alt="" coords="47,2128,125,2155"/>
+<area shape="rect" id="node21" href="$class____dummy__AbstractCurveWidget.html" title="This class is a workaround to be able to use templating in the actual class Note that Qt doesn&#39;t supp..." alt="" coords="217,1212,447,1239"/>
+<area shape="rect" id="node27" href="$classAbstractMonitor.html" title=" " alt="" coords="269,1267,395,1293"/>
+<area shape="rect" id="node29" href="$classAbstractParamWidget.html" title="Base class of all the widgets representing a parameter of an asset (effect or transition)" alt="" coords="251,512,413,539"/>
+<area shape="rect" id="node43" href="$classAbstractScopeWidget.html" title="Abstract class for audio/colour scopes (receive data and paint it)." alt="" coords="251,1317,413,1344"/>
+<area shape="rect" id="node53" href="$classAssetListWidget.html" title="This class is a generic widget that display the list of available assets." alt="" coords="269,1368,395,1395"/>
+<area shape="rect" id="node56" href="$classAssetPanel.html" title="This class is the widget that provides interaction with the asset currently selected...." alt="" coords="285,1419,379,1445"/>
+<area shape="rect" id="node57" href="$classAssetParameterView.html" title="This class is the view for a list of parameters." alt="" coords="253,1469,411,1496"/>
+<area shape="rect" id="node60" href="$classAudioGraphWidget.html" title="@todo Describe class AudioGraphWidget" alt="" coords="260,1520,404,1547"/>
+<area shape="rect" id="node61" href="$classAudioLevelWidget.html" title=" " alt="" coords="262,1571,402,1597"/>
+<area shape="rect" id="node62" href="$classBin.html" title="The bin widget takes care of both item model and view upon project opening." alt="" coords="311,1621,353,1648"/>
+<area shape="rect" id="node63" href="$classChartWidget.html" title="Chart drawing widget." alt="" coords="281,1672,383,1699"/>
+<area shape="rect" id="node64" href="$classChooseColorWidget.html" title="Provides options to choose a color. Two mechanisms are provided: color&#45;picking directly on the screen..." alt="" coords="257,1723,407,1749"/>
+<area shape="rect" id="node65" href="$classClipPropertiesController.html" title="This class creates the widgets allowing to edit clip properties." alt="" coords="243,1773,421,1800"/>
+<area shape="rect" id="node66" href="$classColorPickerWidget.html" title="A widget to pick a color anywhere on the screen. The code is partially based on the color picker in K..." alt="" coords="261,1824,403,1851"/>
+<area shape="rect" id="node67" href="$classColorWheel.html" title=" " alt="" coords="283,1875,381,1901"/>
+<area shape="rect" id="node68" href="$classDoubleWidget.html" title="Widget to choose a double parameter (for a effect) with the help of a slider and a spinbox...." alt="" coords="275,1925,389,1952"/>
+<area shape="rect" id="node69" href="$classDragValue.html" title="A widget for modifying numbers by dragging, using the mouse wheel or entering them with the keyboard." alt="" coords="287,1976,377,2003"/>
+<area shape="rect" id="node70" href="$classEffectSettings.html" title=" " alt="" coords="276,2027,388,2053"/>
+<area shape="rect" id="node71" href="$classEffectStackView.html" title=" " alt="" coords="269,2077,395,2104"/>
+<area shape="rect" id="node72" href="$classEncodingProfilesChooser.html" title=" " alt="" coords="241,2128,423,2155"/>
+<area shape="rect" id="node74" href="$classFlashLabel.html" title=" " alt="" coords="286,2179,378,2205"/>
+<area shape="rect" id="node75" href="$classGeometryWidget.html" title="A widget for modifying numbers by dragging, using the mouse wheel or entering them with the keyboard." alt="" coords="265,2229,399,2256"/>
+<area shape="rect" id="node76" href="$classKeyframeView.html" title=" " alt="" coords="273,2280,391,2307"/>
+<area shape="rect" id="node77" href="$classLibraryWidget.html" title="A &quot;library&quot; that contains a list of clips to be used across projects." alt="" coords="275,2331,389,2357"/>
+<area shape="rect" id="node78" href="$classLineNumberArea.html" title=" " alt="" coords="267,2381,397,2408"/>
+<area shape="rect" id="node79" href="$classLumaLiftGainParam.html" title="Provides options to choose 3 colors." alt="" coords="257,2432,407,2459"/>
+<area shape="rect" id="node80" href="$classMediaBrowser.html" title="The bin widget takes care of both item model and view upon project opening." alt="" coords="275,2483,389,2509"/>
+<area shape="rect" id="node81" href="$classMixerManager.html" title=" " alt="" coords="275,2533,389,2560"/>
+<area shape="rect" id="node82" href="$classMixerWidget.html" title=" " alt="" coords="280,2584,384,2611"/>
+<area shape="rect" id="node83" href="$classPositionWidget.html" title="This class is used to display a parameter with time value." alt="" coords="272,2635,392,2661"/>
+<area shape="rect" id="node84" href="$classProfileWidget.html" title="Provides interface to choose and filter profiles." alt="" coords="277,2685,387,2712"/>
+<area shape="rect" id="node85" href="$classRemapView.html" title="A widget to view remap keyframes." alt="" coords="282,2736,382,2763"/>
+<area shape="rect" id="node86" href="$classResourceWidget.html" title=" " alt="" coords="268,3040,396,3067"/>
+<area shape="rect" id="node87" href="$classScopeWidget.html" title="The ScopeWidget provides a common interface for all scopes in Shotcut." alt="" coords="279,2787,385,2813"/>
+<area shape="rect" id="node90" href="$classStatusBarMessageLabel.html" title="Represents a message text label as part of the status bar." alt="" coords="243,2837,421,2864"/>
+<area shape="rect" id="node91" href="$classSubtitleEdit.html" title="A dialog for editing markers and guides." alt="" coords="283,3091,381,3117"/>
+<area shape="rect" id="node92" href="$classTagWidget.html" title="The tag widget takes care context menu tagging." alt="" coords="287,2888,377,2915"/>
+<area shape="rect" id="node93" href="$classTextBasedEdit.html" title="A dialog for editing markers and guides." alt="" coords="275,3141,389,3168"/>
+<area shape="rect" id="node94" href="$classTimelineContainer.html" title="This is a class that extends QTabWidget to provide additional functionality related to timeline tabs." alt="" coords="261,2939,403,2965"/>
+<area shape="rect" id="node95" href="$classTimeRemap.html" title="A dialog for editing time remap effect." alt="" coords="281,3192,383,3219"/>
+<area shape="rect" id="node96" href="$classUnicodeWidget.html" title=" " alt="" coords="271,3243,393,3269"/>
+<area shape="rect" id="node97" href="$classWheelContainer.html" title=" " alt="" coords="269,2989,395,3016"/>
+<area shape="rect" id="node22" href="$classAbstractCurveWidget.html" title="Base class of all the widgets representing a curve of points." alt="" coords="554,1070,714,1111"/>
+<area shape="rect" id="node23" href="$classAbstractCurveWidget.html" title=" " alt="" coords="549,1135,719,1177"/>
+<area shape="rect" id="node25" href="$classAbstractCurveWidget.html" title=" " alt="" coords="554,1201,714,1242"/>
+<area shape="rect" id="node24" href="$classBezierSplineEditor.html" title="@todo Describe class BezierSplineEditor" alt="" coords="819,1115,960,1141"/>
+<area shape="rect" id="node26" href="$classKisCurveWidget.html" title=" " alt="" coords="826,1165,953,1192"/>
+<area shape="rect" id="node28" href="$classMonitor.html" title=" " alt="" coords="598,1267,670,1293"/>
+<area shape="rect" id="node30" href="$classButtonParamWidget.html" title="This class represents a parameter that requires the user to choose tick a checkbox." alt="" coords="558,360,710,387"/>
+<area shape="rect" id="node31" href="$classClickableLabelParamWidget.html" title="This class represents a parameter that requires the user to choose tick a checkbox." alt="" coords="533,411,735,437"/>
+<area shape="rect" id="node32" href="$classColorEditWidget.html" title="Provides options to choose a color. Two mechanisms are provided: color&#45;picking directly on the screen..." alt="" coords="571,461,697,488"/>
+<area shape="rect" id="node33" href="$classCurveParamWidget.html" title="Class representing a curve and some additional controls." alt="" coords="497,512,771,539"/>
+<area shape="rect" id="node34" href="$classDoubleParamWidget.html" title="This represent a double parameter." alt="" coords="557,563,711,589"/>
+<area shape="rect" id="node35" href="$classGeometryEditWidget.html" title="This class is used to display a parameter with time value." alt="" coords="555,613,713,640"/>
+<area shape="rect" id="node36" href="$classHideParamWidget.html" title="This class represents a parameter that requires no display." alt="" coords="565,664,703,691"/>
+<area shape="rect" id="node37" href="$classKeyframeWidget.html" title=" " alt="" coords="569,715,699,741"/>
+<area shape="rect" id="node38" href="$classPositionEditWidget.html" title="This class is used to display a parameter with time value." alt="" coords="561,765,707,792"/>
+<area shape="rect" id="node39" href="$classSlideWidget.html" title="Provides options to choose slide." alt="" coords="584,867,684,893"/>
+<area shape="rect" id="node40" href="$classUnsupported.html" title=" " alt="" coords="581,816,687,843"/>
+<area shape="rect" id="node41" href="$classUrlListParamWidget.html" title="This class represents a parameter that requires the user to choose a value from a list." alt="" coords="559,917,709,944"/>
+<area shape="rect" id="node42" href="$classUrlParamWidget.html" title="This class represents a parameter that requires the user to choose tick a checkbox." alt="" coords="570,968,698,995"/>
+<area shape="rect" id="node44" href="$classAbstractAudioScopeWidget.html" title="Abstract class for scopes analyzing audio samples." alt="" coords="535,1317,733,1344"/>
+<area shape="rect" id="node48" href="$classAbstractGfxScopeWidget.html" title="Abstract class for scopes analyzing image frames." alt="" coords="542,1368,726,1395"/>
+<area shape="rect" id="node45" href="$classAudioSignal.html" title=" " alt="" coords="840,1216,939,1243"/>
+<area shape="rect" id="node46" href="$classAudioSpectrum.html" title="Displays a spectral power distribution of audio samples. The frequency distribution is calculated by ..." alt="" coords="829,1267,950,1293"/>
+<area shape="rect" id="node47" href="$classSpectrogram.html" title="This Spectrogram shows the spectral power distribution of incoming audio samples over time...." alt="" coords="837,1317,942,1344"/>
+<area shape="rect" id="node49" href="$classHistogram.html" title="Displays the histogram of frames." alt="" coords="844,1368,935,1395"/>
+<area shape="rect" id="node50" href="$classRGBParade.html" title="Displays the RGB waveform of a frame. This is the same as the Waveform, but for each colour channel s..." alt="" coords="842,1419,937,1445"/>
+<area shape="rect" id="node51" href="$classVectorscope.html" title="Displays the vectorscope of a frame." alt="" coords="839,1469,940,1496"/>
+<area shape="rect" id="node52" href="$classWaveform.html" title="Displays the waveform of a frame." alt="" coords="845,1520,934,1547"/>
+<area shape="rect" id="node54" href="$classEffectListWidget.html" title="This class is a widget that display the list of available effects." alt="" coords="570,1419,698,1445"/>
+<area shape="rect" id="node55" href="$classTransitionListWidget.html" title="This class is a widget that display the list of available effects." alt="" coords="557,1469,711,1496"/>
+<area shape="rect" id="node58" href="$classMixStackView.html" title=" " alt="" coords="577,1520,691,1547"/>
+<area shape="rect" id="node59" href="$classTransitionStackView.html" title=" " alt="" coords="557,1571,711,1597"/>
+<area shape="rect" id="node73" href="$classEncodingTimelinePreviewProfilesChooser.html" title=" " alt="" coords="515,2121,753,2162"/>
+<area shape="rect" id="node88" href="$classAudioGraphSpectrum.html" title="An audio spectrum." alt="" coords="554,2761,714,2788"/>
+<area shape="rect" id="node89" href="$classMonitorAudioLevel.html" title=" " alt="" coords="562,2812,706,2839"/>
+<area shape="rect" id="node98" title=" " alt="" coords="11,3040,161,3067"/>
+<area shape="rect" id="node99" title=" " alt="" coords="40,3091,132,3117"/>
+<area shape="rect" id="node100" title=" " alt="" coords="19,3141,153,3168"/>
+<area shape="rect" id="node101" title=" " alt="" coords="25,3192,147,3219"/>
+<area shape="rect" id="node102" title=" " alt="" coords="15,3243,157,3269"/>
+<area shape="rect" id="node103" title=" " alt="" coords="246,917,418,944"/>
+<area shape="rect" id="node104" title=" " alt="" coords="291,968,373,995"/>
+<area shape="rect" id="node105" title=" " alt="" coords="284,867,380,893"/>
+</map>

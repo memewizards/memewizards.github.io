@@ -1,0 +1,5 @@
+<map id="GeometryEditWidget" name="GeometryEditWidget">
+<area shape="rect" id="node1" title="This class is used to display a parameter with time value." alt="" coords="7,359,202,495"/>
+<area shape="rect" id="node2" href="$classAbstractParamWidget.html" title="Base class of all the widgets representing a parameter of an asset (effect or transition)" alt="" coords="5,131,204,311"/>
+<area shape="rect" id="node3" title=" " alt="" coords="65,5,144,83"/>
+</map>

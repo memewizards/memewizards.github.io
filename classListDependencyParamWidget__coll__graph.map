@@ -1,0 +1,6 @@
+<map id="ListDependencyParamWidget" name="ListDependencyParamWidget">
+<area shape="rect" id="node1" title="This class represents a parameter that requires the user to choose a value from a list." alt="" coords="111,359,349,553"/>
+<area shape="rect" id="node2" href="$classAbstractParamWidget.html" title="Base class of all the widgets representing a parameter of an asset (effect or transition)" alt="" coords="5,131,204,311"/>
+<area shape="rect" id="node3" title=" " alt="" coords="65,5,144,83"/>
+<area shape="rect" id="node4" title=" " alt="" coords="229,182,485,259"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="SnapModel" name="SnapModel">
+<area shape="rect" id="node1" title="This class represents the snap points of the timeline. Basically, one can add or remove snap points,..." alt="" coords="5,175,163,399"/>
+<area shape="rect" id="node2" href="$classSnapInterface.html" title="This is a base class for snap models (timeline, clips) Implements only basic functions like add or re..." alt="" coords="10,5,158,127"/>
+</map>

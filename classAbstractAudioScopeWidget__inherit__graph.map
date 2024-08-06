@@ -1,0 +1,8 @@
+<map id="AbstractAudioScopeWidget" name="AbstractAudioScopeWidget">
+<area shape="rect" id="node1" title="Abstract class for scopes analyzing audio samples." alt="" coords="252,1019,487,1184"/>
+<area shape="rect" id="node4" href="$classAudioSignal.html" title=" " alt="" coords="5,1239,261,1493"/>
+<area shape="rect" id="node5" href="$classAudioSpectrum.html" title="Displays a spectral power distribution of audio samples. The frequency distribution is calculated by ..." alt="" coords="286,1261,453,1471"/>
+<area shape="rect" id="node6" href="$classSpectrogram.html" title="This Spectrogram shows the spectral power distribution of incoming audio samples over time...." alt="" coords="477,1232,733,1500"/>
+<area shape="rect" id="node2" href="$classAbstractScopeWidget.html" title="Abstract class for audio/colour scopes (receive data and paint it)." alt="" coords="235,131,503,971"/>
+<area shape="rect" id="node3" title=" " alt="" coords="330,5,409,83"/>
+</map>

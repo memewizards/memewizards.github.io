@@ -1,0 +1,9 @@
+<map id="AbstractGfxScopeWidget" name="AbstractGfxScopeWidget">
+<area shape="rect" id="node1" title="Abstract class for scopes analyzing image frames." alt="" coords="223,1019,443,1184"/>
+<area shape="rect" id="node4" href="$classHistogram.html" title="Displays the histogram of frames." alt="" coords="5,1283,136,1419"/>
+<area shape="rect" id="node5" href="$classRGBParade.html" title="Displays the RGB waveform of a frame. This is the same as the Waveform, but for each colour channel s..." alt="" coords="160,1276,291,1427"/>
+<area shape="rect" id="node6" href="$classVectorscope.html" title="Displays the vectorscope of a frame." alt="" coords="315,1232,571,1471"/>
+<area shape="rect" id="node7" href="$classWaveform.html" title="Displays the waveform of a frame." alt="" coords="595,1283,725,1419"/>
+<area shape="rect" id="node2" href="$classAbstractScopeWidget.html" title="Abstract class for audio/colour scopes (receive data and paint it)." alt="" coords="199,131,467,971"/>
+<area shape="rect" id="node3" title=" " alt="" coords="294,5,373,83"/>
+</map>

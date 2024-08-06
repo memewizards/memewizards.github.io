@@ -1,0 +1,6 @@
+<map id="TimelineItemModel" name="TimelineItemModel">
+<area shape="rect" id="node1" title="This class is the thin wrapper around the TimelineModel that provides interface for the QML." alt="" coords="5,983,253,1251"/>
+<area shape="rect" id="node2" href="$classTimelineModel.html" title="This class represents a Timeline object, as viewed by the backend. In general, the Gui associated wit..." alt="" coords="17,329,242,935"/>
+<area shape="rect" id="node3" href="$classQAbstractItemModel__shared__from__this.html" title=" " alt="" coords="22,131,237,281"/>
+<area shape="rect" id="node4" title=" " alt="" coords="51,5,207,83"/>
+</map>

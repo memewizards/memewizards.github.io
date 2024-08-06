@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['r_11380',['r',['../structkiss__fft__cpx.html#a686b6187e3e885de316908319c71ea8f',1,'kiss_fft_cpx::r()'],['../structrgb__t.html#a10d806a8465ea02bd7de02a56cf75a82',1,'rgb_t::r()'],['../structStructRGB.html#a33ccaaa69d49ac089802b052fd4af7ee',1,'StructRGB::r()']]],
+  ['razor_5fmode_5fafter_5ffirst_5fline_11381',['RAZOR_MODE_AFTER_FIRST_LINE',['../classSubtitleModel.html#a828e1cfe470c4d0b635d131d6e7ba72c',1,'SubtitleModel']]],
+  ['razor_5fmode_5fduplicate_11382',['RAZOR_MODE_DUPLICATE',['../classSubtitleModel.html#aac50d6c9c91bff186609d69dc941dd69',1,'SubtitleModel']]],
+  ['realtime_5ffps_11383',['REALTIME_FPS',['../abstractscopewidget_8cpp.html#afafe223af329d3a5778c89bc8e80c377',1,'abstractscopewidget.cpp']]],
+  ['rec_5f601_5fb_11384',['REC_601_B',['../colorconstants_8h.html#a5510024180766fcf56c202cf729c26a0',1,'colorconstants.h']]],
+  ['rec_5f601_5fg_11385',['REC_601_G',['../colorconstants_8h.html#a53251745cf00a63f774cf72d32b15bd1',1,'colorconstants.h']]],
+  ['rec_5f601_5fr_11386',['REC_601_R',['../colorconstants_8h.html#a53a5faca97822bac17f9da62bc5b4469',1,'colorconstants.h']]],
+  ['rec_5f709_5fb_11387',['REC_709_B',['../colorconstants_8h.html#a6bb5440287e7ac8550567ee343e0de41',1,'colorconstants.h']]],
+  ['rec_5f709_5fg_11388',['REC_709_G',['../colorconstants_8h.html#a8a3418b5280bca25da78af2424f57fea',1,'colorconstants.h']]],
+  ['rec_5f709_5fr_11389',['REC_709_R',['../colorconstants_8h.html#a77d3c5e86b7804f5dec958e4828a5073',1,'colorconstants.h']]],
+  ['rectitem_11390',['RECTITEM',['../titlewidget_8cpp.html#afca029fe4769967c844eb5f36d537b75',1,'titlewidget.cpp']]],
+  ['refreshtimer_11391',['refreshTimer',['../classMonitorManager.html#ae5fb7ee2897c1e9d45ba08dfa65ad0d2',1,'MonitorManager']]],
+  ['refreshzoom_11392',['refreshZoom',['../classVideoWidget.html#a95b367bb116b844181f8b1fe2bf14cc3',1,'VideoWidget']]],
+  ['remove_5fdc_11393',['remove_dc',['../psdpng_8c.html#aaa4480bf8e7c1b7e96930cd4a6511d63',1,'psdpng.c']]],
+  ['replaceproducer_11394',['replaceProducer',['../structrequestClipInfo.html#ade37e2c15e557da31528c331bfc831ff',1,'requestClipInfo']]],
+  ['requestedseekposition_11395',['requestedSeekPosition',['../classVideoWidget.html#ae70348c9204d88cf75cd4b068f3b1b7a',1,'VideoWidget']]],
+  ['res_11396',['res',['../structLogger_1_1Invok.html#ad0f17e15e51648f2b6646605f180162e',1,'Logger::Invok']]],
+  ['result_5fawaiting_11397',['result_awaiting',['../classLogger.html#af52db515fc5bd5ce4d9f2bb496949b50',1,'Logger']]],
+  ['rootitem_11398',['rootItem',['../classAbstractTreeModel.html#a96b3dd1dbaa90a1fad19f7653cf92a27',1,'AbstractTreeModel']]],
+  ['rotatex_11399',['rotatex',['../classTransform.html#a1310c5568bc2e007027eef12e8ee5493',1,'Transform']]],
+  ['rotatey_11400',['rotatey',['../classTransform.html#ac539d79f6ec4bf8e959b6851488df75a',1,'Transform']]],
+  ['rotatez_11401',['rotatez',['../classTransform.html#aed5179e8d6d3c36bb53fec66e4001381',1,'Transform']]]
+];

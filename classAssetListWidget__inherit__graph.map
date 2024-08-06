@@ -1,0 +1,6 @@
+<map id="AssetListWidget" name="AssetListWidget">
+<area shape="rect" id="node1" title="This class is a generic widget that display the list of available assets." alt="" coords="112,131,299,531"/>
+<area shape="rect" id="node3" href="$classEffectListWidget.html" title="This class is a widget that display the list of available effects." alt="" coords="5,579,192,817"/>
+<area shape="rect" id="node4" href="$classTransitionListWidget.html" title="This class is a widget that display the list of available effects." alt="" coords="217,579,407,817"/>
+<area shape="rect" id="node2" title=" " alt="" coords="166,5,245,83"/>
+</map>

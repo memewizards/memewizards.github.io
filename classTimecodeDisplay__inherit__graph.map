@@ -1,0 +1,4 @@
+<map id="TimecodeDisplay" name="TimecodeDisplay">
+<area shape="rect" id="node1" title="A widget for inserting a timecode value." alt="" coords="5,131,185,545"/>
+<area shape="rect" id="node2" title=" " alt="" coords="26,5,165,83"/>
+</map>
